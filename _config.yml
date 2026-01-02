@@ -1,4 +1,5 @@
 title: SnapyHook Research Notes
 description: Systems, Reverse Engineering, and Runtime Analysis
-theme: minima
+theme: jekyll-theme-hacker
+highlighter: rouge
 markdown: kramdown
