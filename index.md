@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 # SnapyHook Research Notes
